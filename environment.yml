@@ -1,0 +1,14 @@
+name: car_price
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - r=4.0.3
+  - r-base=4.0.3
+  - r-essentials=4.0.3
+  - r-shiny=1.6.0
+  - r-dplyr=1.0.7
+  - r-ggplot2=3.3.5
+  - r-plotly=4.9.4
+  - r-scales=1.1.1
+  - r-shinydashboard=0.7.1
