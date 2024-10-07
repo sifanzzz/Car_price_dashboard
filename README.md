@@ -24,7 +24,7 @@ To install and run the app locally, follow these steps:
 1.  Clone or download the repository to your local machine.
 
 ``` bash
-git clone https://github.com/sifanzzz/Car_price_prediction.git
+git clone https://github.com/sifanzzz/Car_price_dashboard.git
 ```
 
 2.  **Navigate to the directory**: Open your terminal or command prompt and navigate to the directory where your Shiny app files are located.
