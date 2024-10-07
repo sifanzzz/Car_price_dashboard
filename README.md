@@ -50,11 +50,11 @@ Rscript -e "shiny::runApp('./src/app.R', port = 8888)"
 
 ## 📚 License
 
-The Job Postings dashboard is licensed under the terms of the [MIT license](https://github.ubc.ca/MDS-2023-24/532_individual_sifan/blob/main/LICENSE)
+The Car Price dashboard is licensed under the terms of the [MIT license](https://github.ubc.ca/MDS-2023-24/532_individual_sifan/blob/main/LICENSE)
 
 ## 🤜 Support
 
-If you encounter any issues, require assistance, need to report a bug or request a feature, please file an issue through our [GitHub Issues](https://github.ubc.ca/MDS-2023-24/532_individual_sifan/issues).
+If you encounter any issues, require assistance, need to report a bug, or request a feature, please file an issue through our [GitHub Issues](https://github.ubc.ca/MDS-2023-24/532_individual_sifan/issues).
 
 ## ✏️ Reference
 
