@@ -1,4 +1,4 @@
-# Dashboard of Car Price in Australia
+# Dashboard of Car Prices in Australia
 
 
 [![Project Status: Active -- The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Shiny-Run%20on%20localhost%20via%20RStudio-blue)](https://rstudio.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
